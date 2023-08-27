@@ -1,11 +1,8 @@
 # T.I.N.A
 
 Uma IA assistente feita em Python
-(An AI assistant coded in Python)
 
-Todo Impossível Nós Alcançaremos             
-(We'll reach the impossible)
-
+(Todo Impossível Nós Alcançaremos)  
 
 
 
@@ -21,15 +18,3 @@ Tecnologias:
     GPT-3.5 (em breve                                             
 
 
-(ENGLISH)
-
-Focus:
-    Understand and apply machine learning
-    Task automation
-
-Technologies:
-    Voice recongition
-    Machine learning
-    Text to speech
-    GPT-3.5 API (soon)
-    
