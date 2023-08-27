@@ -1,15 +1,19 @@
 # T.I.N.A
-Todo Impossível nós alcançaremos
-We'll reach the impossible
+Uma IA assistente feita em Python            (An assistant AI coded in Python)
+
+Todo Impossível Nós Alcançaremos              (We'll reach the impossible)
 
 
-Uma IA assistente feita em Python
 
-Foco:
-    Aprendizado
-    Automatização de tarefas
 
-Tecnologias:
-    Reconhecimento de voz
-    Síntese de voz
-    GPT-3.5
+
+Foco:                                                        Focus:
+    Entender e aplicar o aprendizado de máquina                    Understand and apply machine learning
+    Automatização de tarefas                                       Task automation
+    
+
+Tecnologias:                                                 Technologies:
+    Reconhecimento de voz                                        Voice recongition
+    Aprendizagem de máquina                                      Machine learning
+    Síntese de voz                                               Text to speech
+    GPT-3.5 (em breve                                             GPT-3.5 API (soon)
