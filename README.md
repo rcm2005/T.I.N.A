@@ -1,7 +1,6 @@
 # T.I.N.A
 
 Uma IA assistente feita em Python
-
 (An assistant AI coded in Python)
 
 Todo Impossível Nós Alcançaremos             
