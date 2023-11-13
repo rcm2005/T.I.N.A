@@ -2,3 +2,8 @@ SpeechRecognition== 3.10.0
 Vosk== 0.3.45
 pyaudio== 0.2.13
 Pyttsx3== 2.90
+python-dotenv
+requests
+os
+base64
+json
